@@ -117,10 +117,10 @@ def logo(n):
        {K}  |____/ |__|__||__|__||__|__|  {K}/        \\/ __ \|    <\  ___/| | \\// ___ \   
                                       {H}/_________(_____/|__|__\\_____>__|  (______\  
 				
-     {M}•{K}•{H}• {P}Multi Brute Force Facebook By Shishigami-X{M}•{K}•{H}•
-     {M}•{K}•{H}• {P}Author   : Ferly Shishigami {H}•{K}•{M}•          
-     {M}•{K}•{H}• {P}Github   : github.com/Shishigami-X {H}•{K}•{M}•   
-     {M}•{K}•{H}• {P}Facebook : Afriliyan Ferly Shishigami X {H}•{K}•{M}•""")
+     {M}•{K}•{H}• {P}Multi Brute Force Facebook By Draken KunM}•{K}•{H}•
+     {M}•{K}•{H}• {P}Author   : Draken Kun {H}•{K}•{M}•          
+     {M}•{K}•{H}• {P}Github   : github.com/LuCiFeR7238 {H}•{K}•{M}•   
+     {M}•{K}•{H}• {P}Facebook : Draken Kun {H}•{K}•{M}•""")
      
 def logo2():
 	return str(f"""
